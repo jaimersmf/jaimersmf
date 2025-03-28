@@ -29,7 +29,7 @@
 
 ## 🏆 Proyectos Destacados
 
-📌 **Predicción de vajas laborales con Machine Learning** 🛒  
+📌 **Predicción de bajas laborales con Machine Learning** 🛒  
 📌 **Automatización de procesos** 💳  
 📌 **Industry 4.0, IoT y Real Time data Visualization** 📈  
 
